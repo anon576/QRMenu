@@ -1,0 +1,48 @@
+# .NET build results
+bin/
+obj/
+out/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Configuration files
+appsettings.Development.json
+appsettings.Production.json
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.vs/
+
+# ASP.NET Core secrets
+secrets.json
+
+# Rider project files
+.idea/
+
+# JetBrains Rider files
+.idea/
+
+# VSCode files
+.vscode/
+
+# NPM modules
+node_modules/
+
+# Others
+*.log
+*.dmg
+*.gzip
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.gz
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
